@@ -6,7 +6,7 @@
 |李迪菲|王森|Grundy numbers（Mex）(博弈)|[Swap Game](https://www.luogu.com.cn/problem/CF1747C)|洛谷题解|普及/提高−|
 |李迪菲|王森|Grundy numbers（Mex）（博弈）|[取火柴游戏](https://www.luogu.com.cn/problem/P1247)|洛谷题解|普及+/提高|
 |李迪菲|王森|Grundy numbers（Mex）（博弈）|[Fox and Card Game](https://www.luogu.com.cn/problem/CF388C)|洛谷题解|提高+/省选−|
-|石佳帅||王森|Nim游戏|[新Nim游戏](https://www.luogu.com.cn/problem/P4301))|洛谷题解|提高+/省选−|
+|石佳帅|王森|Nim游戏|[新Nim游戏](https://www.luogu.com.cn/problem/P4301))|洛谷题解|提高+/省选−|
 |石佳帅|王森|Nim游戏|[【模板】Nim 游戏](https://www.luogu.com.cn/problem/P2197)|洛谷题解|模板/简单|
 
 # 第十一周
